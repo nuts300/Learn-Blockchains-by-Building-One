@@ -1,0 +1,7 @@
+# Directorys
+.idea/
+__pycache__/
+venv/
+
+# Fils
+.DS_Store
