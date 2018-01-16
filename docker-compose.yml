@@ -1,7 +1,7 @@
 version: '3.4'
 services:
 
-  ficlo_api:
+  blockchain_api:
     restart: always
     build: .
     container_name: "SampleBlockchainAPI"
