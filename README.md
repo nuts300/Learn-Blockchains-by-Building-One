@@ -8,10 +8,9 @@ https://hackernoon.com/learn-blockchains-by-building-one-117428612f46
 https://qiita.com/hidehiro98/items/841ece65d896aeaa8a2a
 
 ## 環境
-|      |             |
-|:-----|:------------|
-| Lang | Python 3.6.2|
-| FW   | Falcon      |
+|     Lang     |      FW     |
+|:------------:|:-----------:|
+| Python 3.6.2 |    Falcon   |
 
 ## エンドポイント
 生存確認
